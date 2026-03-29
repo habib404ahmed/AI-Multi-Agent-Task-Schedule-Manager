@@ -16,6 +16,9 @@ Primary Agent  ──(keyword NLP)──▶ Task Agent    ──▶ Task Tool   
 ```
 
 ---
+ScreenShot
+<img width="1919" height="860" alt="Screenshot 2026-03-29 114206" src="https://github.com/user-attachments/assets/05925a37-aa15-4a49-b28a-960af8e515e1" />
+
 
 ## 📁 Project Structure
 
